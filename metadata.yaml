@@ -1,0 +1,35 @@
+_repo: The-life-of-Adoniram-Judson_70894
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Judson, Edward
+    birthdate: 1844
+    deathdate: 1914
+    gutenberg_agent_id: '55915'
+    url: http://www.gutenberg.org/2009/agents/55915
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Judson_(theologian)
+description: ''
+gutenberg_issued: '2023-06-02'
+identifiers:
+  gutenberg: '70894'
+  lccn: '12034718'
+language: en
+pgterms:marc904: https://archive.org/details/lifeofadoniramj00juds/page/n7
+pgterms:marc905: 20190721093611judson
+pgterms:marc906: '1883'
+pgterms:marc907: us
+production_note: Brian Wilson, KD Weeks and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bAnson D. F. Randolph & Company, $c1883.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missionaries -- United States -- Biography'
+- !lcsh 'Judson, Adoniram, 1788-1850'
+- !lcsh 'Missionaries -- Burma -- Biography'
+- !lcc 'BV'
+- GITenberg
+title: The life of Adoniram Judson
+url: http://www.gutenberg.org/ebooks/70894
